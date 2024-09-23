@@ -2,5 +2,5 @@ streamlit
 pandas
 joblib
 plotly
-pycopy-collections.defaultdict
+collections
 datetime
