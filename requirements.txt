@@ -4,3 +4,4 @@ joblib
 plotly
 defaultdict
 datetime
+--upgrade pip
